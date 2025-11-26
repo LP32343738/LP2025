@@ -30,6 +30,8 @@ More detailed introduction of LP2025 can be found in the paper.
 Some examples from the dataset are shown below:
 ![LP2025_sample](https://github.com/LP32343738/LP2024/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
 
+For the overview of our dataset, please refer to:
+[LP2025.md](LP2025.md)
 
 # LPD Annotation Visualization
 ```
