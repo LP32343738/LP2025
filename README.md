@@ -89,9 +89,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-We are temporarily releasing 400 images each for the LP-2025 LPD, and LPR. The complete dataset will be made available after the paper is accepted.
-
-[LP-2025 Download Link](https://drive.google.com/drive/folders/1TS3UkpbfOOmXc40H6eVWc9XYHwC0taGt?usp=sharing)
+[LP-2025 Download Link](https://drive.google.com/drive/folders/1pu4fTRTMeWieXZhNYau6fJYv27JpslHX)
 \
 \
 [LP-2025 Syn Dataset (105.5GB)](https://drive.google.com/file/d/1NjzTVPxhejzuHmmOhE2LBIqi26qWhP1H/view?usp=sharing)
@@ -99,4 +97,16 @@ We are temporarily releasing 400 images each for the LP-2025 LPD, and LPR. The c
 Due to the significant size of the synthetic dataset, we will be transferring it via hard drive. If you require the synthetic dataset, please contact the Database Administrator to arrange the details for hard drive delivery.
 
 
+Citation and Contact
+--
+If you like our work or find YFP dataset useful, please cite the following paper：
+```
+@article{hsu2018deep,
+  title={Style-Preserving Generator for Synthetic License Plate Recognition}, 
+  author={Hsu, Gee-Sern Jison and Lin, Wei-Jun and Hsieh, Wei-Chun and Jian, Wei-Zhe and Chung, Sheng-Luen and Gavrilova, Marina L.},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  year={2025},
+}
+```
+Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
 
