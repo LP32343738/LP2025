@@ -99,7 +99,7 @@ Due to the significant size of the synthetic dataset, we will be transferring it
 
 Citation and Contact
 --
-If you like our work or find YFP dataset useful, please cite the following paper：
+If you like our work or find LP2025 dataset useful, please cite the following paper：
 ```
 @article{hsu2018deep,
   title={Style-Preserving Generator for Synthetic License Plate Recognition}, 
