@@ -91,10 +91,6 @@ Download Link
 -
 [LP-2025 Download Link](https://drive.google.com/drive/folders/1pu4fTRTMeWieXZhNYau6fJYv27JpslHX?usp=drive_link)
 \
-\
-[LP-2025 Syn Dataset (105.5GB)](https://drive.google.com/file/d/1NjzTVPxhejzuHmmOhE2LBIqi26qWhP1H/view?usp=sharing)
-
-Due to the significant size of the synthetic dataset, we will be transferring it via hard drive. If you require the synthetic dataset, please contact the Database Administrator to arrange the details for hard drive delivery.
 
 
 Citation and Contact
